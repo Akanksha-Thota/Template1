@@ -12,6 +12,12 @@
          top: 50px;
          font-size: 30px;
      }
+     .buildweb{
+        height: 108vh;
+     }
+     .creative{
+        padding-top: 50px;
+     }
 
      .HomepageGrids {
          margin-top: -10%;
@@ -41,6 +47,27 @@
          object-position: -120px;
          filter: grayscale(100%);
      }
+     .featuresImg img{
+        margin-top: 40px;
+     }
+     .design{ 
+        height: 100vh;
+     }
+     .qualites{
+        margin-top:90px;
+     }
+     .digital h4{
+        font-size: 15px;
+     }
+     .digital h1{
+        font-size: 20px;
+     }
+     .qualitesDec p{
+        font-size: 15px;
+     }
+     .qualitesDec h3{
+        font-size: 15px;
+     }
 
      .qualitesDec {
          width: 35%;
@@ -52,10 +79,26 @@
 
      .products {
          border: 2px solid gray;
-
-         margin-top: -180px;
+        margin-top: -230px;
+        width: 1100px;
+        height:400px
+     }
+     .products h1{
+        font-size: 50px;
      }
      .animations-image img{
         height: 350px;
      }
+     .contact{
+        margin-top: -270px;
+     }
+     .us p{
+        font-size: 20px;
  }
+ .f1 p{
+     font-size: 15px;
+ }
+ .f1 h1{
+    font-size: 20px;
+ }
+}
