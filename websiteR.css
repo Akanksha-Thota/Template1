@@ -1,0 +1,61 @@
+ @media only screen and (min-width:1100px) and (max-width:1400px) {
+     .header {
+         height: 130vh;
+     }
+
+     .navbar h1 {
+         margin: 50px 30px 0px;
+         font-size: 15px;
+     }
+
+     ion-icon[name="menu-outline"] {
+         top: 50px;
+         font-size: 30px;
+     }
+
+     .HomepageGrids {
+         margin-top: -10%;
+     }
+
+     .grid {
+         width: 20%;
+     }
+
+     .grid p {
+         font-size: 20px;
+     }
+
+     .buildweb {
+         margin-top: 250px;
+     }
+
+     .part1 img {
+         height: 109vh;
+     }
+
+     .box-wrapgrid {
+         overflow: hidden;
+     }
+
+     .box-wrapgrid img {
+         object-position: -120px;
+         filter: grayscale(100%);
+     }
+
+     .qualitesDec {
+         width: 35%;
+     }
+
+     .contact {
+         margin-top: -115px;
+     }
+
+     .products {
+         border: 2px solid gray;
+
+         margin-top: -180px;
+     }
+     .animations-image img{
+        height: 350px;
+     }
+ }
