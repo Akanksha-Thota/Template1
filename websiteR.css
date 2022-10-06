@@ -74,9 +74,9 @@
          width: 35%;
      }
 
-     .contact {
+     /* .contact {
          margin-top: -115px;
-     }
+     } */
 
      .products {
          border: 2px solid gray;
@@ -91,11 +91,11 @@
         height: 250px;
      }
      .contact{
-        margin-top: -270px;
+        margin-top: -280px;
      }
-     .us p{
+     /* .us p{
         font-size: 20px;
- }
+ } */
  .f1 p{
      font-size: 15px;
  }
